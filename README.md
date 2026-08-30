@@ -1,2 +1,3 @@
-# mi-primer-proyecto
-Primer repositorio del taller de GitHub — Colegio Santa María
+# Mi Primer Proyecto
+Hola, soy Thaliana Ospina, estudiante de Programación de Software del Colegio Santa María.
+Este repositorio es mi primer proyecto del taller de GitHub donde estoy aprendiendo control de versiones con Git y GitHub Desktop.
